@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+## Dear ImGui artifacts
+imgui.ini
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -30,3 +33,39 @@
 *.exe
 *.out
 *.app
+
+## Visual Studio artifacts
+.vs
+ipch
+*.opensdf
+*.log
+*.pdb
+*.ilk
+*.user
+*.sdf
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sln
+*.vcxproj*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+imgui/
+bld/
+[Bb]in/
+[Oo]bj/
+*.debug
+*.dSYM
+
+# Visual Studio cache/options directory
+.vs/
