@@ -2,13 +2,13 @@
  🪁 Simple ImGui DirectX9 Blur Effect Example Project. 
 
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/C%2B%2B) [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x64](https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/X64)
-If you want it for directx11 a different solution is available here: [https://github.com/3r4y/ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur)
 
 📖 **Overview of the project**
 
 Simple Project with Blur effect to external overlay made using [DirectX9](https://www.microsoft.com/en-us/download/details.aspx?id=6812), [ImGui](https://github.com/ocornut/imgui).
 
-This project helps to add blur to the [image](https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples#Example-for-DirectX9-users) I use in imgui, it can be used with more components, not just images.
+This project helps to add blur to the [image](https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples#Example-for-DirectX9-users) I use in imgui, it can be used with more components, not just images. If you want it for directx11 a different solution is available here: [https://github.com/3r4y/ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur)
+
 
 This project was made by making additions on the [project](https://github.com/3r4y/imgui-external-overlay) I shared before.
 
