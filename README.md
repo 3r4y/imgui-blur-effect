@@ -2,6 +2,7 @@
  🪁 Simple ImGui DirectX9 Blur Effect Example Project. 
 
 [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/C%2B%2B) [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x64](https://img.shields.io/badge/arch-x64-green.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/X64)
+If you want it for directx11 a different solution is available here: [https://github.com/3r4y/ImGuiGaussianBlur](https://github.com/3r4y/ImGuiGaussianBlur)
 
 📖 **Overview of the project**
 
